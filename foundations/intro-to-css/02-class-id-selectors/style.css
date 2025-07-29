@@ -1,6 +1,6 @@
 .odd_number {
     background-color: #ff9d9d;
-    font: verdana, "DejaVu Sans", sans-serif;
+    font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
 #second_number {
